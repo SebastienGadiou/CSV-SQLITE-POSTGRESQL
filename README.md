@@ -24,4 +24,7 @@ Do the necessary changes in the settings.py to connect to the POSTGRESQL DB (cre
 
 python manage.py loaddata data.json
 
+CSV number format as decimal 2 digits avec (.)
+example of datatype in SQLITE (see picture)
+
 
