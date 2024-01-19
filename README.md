@@ -47,4 +47,6 @@ python manage.py loaddata data.json
 CSV number format as decimal 2 digits after (.)
 example of datatype in SQLITE (see picture)
 
+several pictures how to check that the process works and the JSON file 
+
 
