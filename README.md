@@ -42,6 +42,8 @@ DATABASES = {
 python manage.py migrate --run-syncdb
 python manage.py loaddata data.json
 
+
+
 CSV number format as decimal 2 digits after (.)
 example of datatype in SQLITE (see picture)
 
